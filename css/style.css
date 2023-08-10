@@ -1,0 +1,136 @@
+a{
+text-decoration: none;
+display: inline-block;
+text-decoration: none;
+color: #ffffff;
+font-size: 1.4rem;
+
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    list-style: none;
+    display: inline;
+}
+.nav_link{
+   font-size: 20px;
+  margin-left: 50px;
+   color: gray;
+   margin-top: 30px;
+   
+}
+.h2_right{
+    font-family: "Lalezar, cursive";
+    font-size: 30px;
+
+}
+.nav_link:hover{
+
+    color: blueviolet;
+}
+.nav_pic{
+    color: #6e0aef;
+    padding-left: 0.75rem;
+   width:40px;
+   height:40px ;
+   margin-top: 37px;
+  
+}
+
+.nav_fir{
+    display: flex;
+}
+.sec_div{
+    display: flex;
+    background-color: whitesmoke; 
+    justify-content: space-between;
+}
+.in_div{
+    margin: 60px;
+    text-align: right;
+ 
+    
+    
+}
+.m{
+    color: blueviolet;
+    font-size: 60px;
+}
+.r{
+    font-weight: bold;
+    font-size: 50px
+}
+.s{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.b{
+    width: 10rem;
+    margin-top: 3rem;
+    border-radius: 0.5rem;
+    outline: none;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    background-color: #6e0aef;
+}
+
+
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.pic2{
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.img_phone:hover{
+    scale: 1.1;
+    cursor: pointer;
+
+}
+.div3{
+    display: inline;
+    justify-content: space-around;
+    display: flex;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    margin-left: 30px ;
+}
+
+.last_b{
+ background-color: #6e0aef;
+  width: 250px;
+  height: 40px;
+
+}
+.div_h{
+    text-align: center;
+    /* display: inline-block; */
+}
